@@ -1,2 +1,0 @@
-# Prosper-Loan-Predictions
-Banks lose a lot of money to unpaid loans to borrowers each year. Lots of banks have become insolvent due to various borrowers defaulting on their loans, some loans get charged off and a lot more people pass due dates before repaying their loans. In this project, the loan dataset from Prosper would be explored and analyze to determine the factors that influence then end status of loans and predict a borrower's 
