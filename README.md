@@ -1,6 +1,8 @@
 # Prosper Loan Data Exploration
 ## by (Ishola Olufunmi Abiodun)
 
+## Description:
+Banks lose a lot of money to several loans obtained by borrowers each year. Lots of banks have become insolvent due to various borrowers defaulting on their loans, some loans getting charged off and a lot more people repaying loans untimely. In this project, the loan dataset from Prosper would be explored and analyzed to determine the factors that influence the end status of loans and predict the possibility of a borrower repaying their loan.
 
 ## Dataset
 
@@ -19,9 +21,11 @@ It was also observed that borrowers who paid about ten percent of the amount bor
 
 ## Key Insights for Presentation
 
-For the presentation, I would be focusing on the variables that influenced loan status either singly or when paired with other variables.
-I would start by introducing my main variable of interest- loan status, its distribution across the dataset and take it down to single factors that influenced it down to mutiple factors.
+For the presentation, I focused on the variables that influenced loan status either singly or when paired with other variables.
+I started by introducing my main variable of interest- loan status, its distribution across the dataset and took it down to single factors that influenced it down to mutiple factors.
 
 I started with a bar plot exploring the distribution of the loan status as a categorical variable, then I presented a histogramic distribution of loan amount; the numerical variable of interest. I then moved to the exploration of the distribution of loan amount against loan status, then distribution of another variable strongly correlated with loan amount- BorrowerAPR. I tweaked my visualization a little by resetting the orders of the plots and figure sizes of loan amount against loan status and APR against loan status.
 
 I then used two plots from part 1 exploration to depict the relationship between loan status, loan amount, investment amount and income range variables.
+
+## Conclusion:
