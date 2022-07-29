@@ -12,6 +12,7 @@ Also, for easy analyses, map function was used to map the names of certain value
 
 ## Summary of Findings
 > After successfully wrangling the data, I started by exploring the variables individually, then took it down to paired exploration.
+
 > During the exploration of the dataset, I observed that some variables wholly influenced loan status while some unless explored with other variables, they did not affect outcome of loans. The loan amount seemed slightly correlated with loan status when compared without any other variables. But with other variables and loan amounts, there seemed to be a much more stronger correlation. The number of investors as a standalone variable seemed strongly correlated with loan status compared to when explored with other variables. There also seemed to be a high correlation between amount invested by friends and loan status as loans with much invested amount tend to be more completed than those with low invested amount. The term and quarter variables as standalone variables and even when paid with other variables did not seem correlated with loan status.
 
 Exploring the non-interest variables, the annual percentage rate and the interest rate had a very strong correlation and it seemed the interest rate was the biggest driver of annual percentage rate admist other loan charges. The monthly loan payment also seemed very correlated with the loan amount, and as loan amount increased, monthly loan payment too increased.
@@ -30,4 +31,6 @@ I then used two plots from part 1 exploration to depict the relationship between
 
 ## Conclusion:
 Some variables singly or in pairs influence if a borrower would be able to repay a loan or not.
+
+
 Having knowledge about the repayment capacity of a borrower would help lenders (banks) know what to expect and if they should give out the loan, reduced the amount or not give out at all.
